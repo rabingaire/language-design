@@ -9,3 +9,7 @@ I am nowhere near understanding things listed here but these topics are exciting
     - [A Synthesizing Superoptimizer](https://arxiv.org/pdf/1711.04422.pdf)
     - [Superoptimizer -- A Look at the Smallest Program](https://courses.cs.washington.edu/courses/cse501/15sp/papers/massalin.pdf)
     - [Automatic Generation of Peephole Superoptimizers](https://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)
+
+### Mar 5 2020
+1. Compiler Optimization
+    - [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU)
