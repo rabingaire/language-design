@@ -13,3 +13,7 @@ I am nowhere near understanding things listed here but these topics are exciting
 ### Mar 5 2020
 1. Compiler Optimization
     - [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+    
+### Mar 11 2020
+1. Reducing Code Size Using Outlining
+    - [Reducing Code Size Using Outlining](https://www.youtube.com/watch?v=yorld-WSOeU)
