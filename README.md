@@ -21,3 +21,7 @@ I am nowhere near understanding things listed here but these topics are exciting
 ### Mar 13 2020
 1. Assembly Language & Computer Architecture
     - [Assembly Language & Computer Architecture](https://www.youtube.com/watch?v=L1ung0wil9Y)
+    
+### Mar 14 2020
+1. Understanding C by learning assembly 
+    - [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
